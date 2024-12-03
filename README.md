@@ -1,6 +1,6 @@
 # DIONYSUS_data
 
-Additional source data & code used to generate and analyze content of DIONYSUS database : <dsimb.inserm.fr/DIONYSUS/>
+Additional source data & code used to generate and analyze content of DIONYSUS database : www.dsimb.inserm.fr/DIONYSUS/
 
 Data:
 * Sequence clusters in terms of MMseqs2 score
