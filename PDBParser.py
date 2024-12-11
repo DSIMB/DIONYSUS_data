@@ -630,5 +630,5 @@ class LightPDBParser:
         lines['line'].to_csv(output_path, index=False)
 
 if __name__ == '__main__':
-    l = LightPDBParser('9DIP/9DIP.pdb', model=None)
+    l = LightPDBParser('test/9DIP.pdb', model=None)
     aa = l.extract_binding_site_info(only_surface_atoms=True, add_atoms=['CA'])
